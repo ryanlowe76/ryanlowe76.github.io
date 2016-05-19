@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!- WHATS ON WHERE IS RYANS IDEA"
+title:  "Welcome to Jekyll!- LETS DO IT"
 date:   2016-05-18 05:15:54 -0400
 categories: jekyll update
 ---
